@@ -1,6 +1,6 @@
 package taller3.televisores;
 
-class Control {
+public class Control {
 	
 	private TV tv;
 	
